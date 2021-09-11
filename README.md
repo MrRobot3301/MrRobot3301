@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrRobot3301 (Prashant Gupta)
+- 👋 Hi, I’m @MrRobot3301
 - 👀 I’m interested in Cyber security & Ethical hacking
 - 🌱 I’m currently learning Networking
 - 📫 Reach me " anonymouslegion00@protonmail.com "
