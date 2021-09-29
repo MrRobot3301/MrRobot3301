@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MrRobot3301
 - 👀 I’m interested in Cyber security & Ethical hacking
-- Web pentester
+- 👀 Web pentester
 - 🌱 I’m currently learning Networking
-- I’m looking to collaborate on python and bash projects
-- Always ready to learn & apply hands-on
+- 📫 I’m looking to collaborate on python and bash projects
+- 🌱 Always ready to learn & apply hands-on
 - 📫 Reach me " anonymouslegion00@protonmail.com "
 
 <!---
