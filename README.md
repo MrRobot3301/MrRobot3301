@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrRobot3301
-- 👀 Enthusiast in Cyber security & Ethical hacking
+- 👀 Cyber security & Ethical hacking Enthusiast
 - 👋 Preparing for OSCP & CEH .....
 - 👀 Ask me about: Linux, Web pentesting
 - 🌱 I’m currently learning Networking
